@@ -1,0 +1,56 @@
+{
+  "uuid": "250242f28fb85e39c8023557cef55dba",
+  "path": "Offline/VEX_Competition_Switch_Duo",
+  "name": "VEX_Competition_Switch_Duo",
+  "content": "",
+  "created_at": "2025-08-22 20:00:50",
+  "updated_at": "2025-08-22 20:01:47",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c5f0e5a663a97c1d2fde2ff748298872",
+      "title": "v1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "60404e038834472485a6954373aebc59": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HC-RJ45-5JA-2-6",
+          1,
+          "RJ45-TH_HC-RJ45-5JA-2-6-S",
+          "RJ1",
+          {
+            "Manufacturer Part": "HC-RJ45-5JA-2-6",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3000181"
+          }
+        ]
+      ],
+      "updateTime": 1755914507,
+      "createTime": 1755914450,
+      "histories": [],
+      "created_at": "2025-08-22 20:00:50",
+      "updated_at": "2025-08-22 20:01:47"
+    }
+  ],
+  "sort": [
+    "82d9a34c0e5e9168b907d5549453d947",
+    "f4a5b6f3fa318b44edec575ded8bbf7f"
+  ],
+  "title": "VEX_Competition_Switch_Duo",
+  "foldername": "VEX_Competition_Switch_Duo",
+  "schfilename": "VEX_Competition_Switch_Duo.json",
+  "schfilemtime": 1755914507251
+}
