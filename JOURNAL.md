@@ -21,7 +21,7 @@ This "duo port" variant supports simultaneously controlling 2 robots, each plugg
 
 **Cumulative time spent: 3h**
 
-# June 24th: Design Duo Port V1 PCB
+# June 24th: Design Duo Port V1.0 PCB
 I did a "first pass" attempt to wire V1.0 of the PCB. For simplicity, I placed the RJ45 ports facing the wrong direction to help figure out the correct pins to connect. I am not satisifed with having to use a via in this design though, so I will likely re-route the traces to avoid it in V2, along with positioning the RJ45 ports correctly.
 
 ![alt text](image-4.png)
@@ -29,4 +29,17 @@ I did a "first pass" attempt to wire V1.0 of the PCB. For simplicity, I placed t
 
 **Cumulative time spent: 4h**
 
-# June 25th: Design Duo Port V2 PCB
+# June 25th: Design Duo Port V1.1 PCB
+I fliped the RJ45 ports in this revision to face downwards as on the final product. I also re-routed the traces to avoid using a via, which should make the PCB less complex. HOWEVER, I realized that I used quite a few 90 degree angles in the traces, which is bad practice. I decided halfway through the design to restart.
+
+![alt text](image-6.png)
+
+**Cumulative time spent: 4.5h**
+
+# June 30th: Design Duo Port V1.2 PCB
+I restarted the PCB design from scratch, this time avoiding 90 degree angles in the traces. I also added labels to the silkscreen layer to indicate which switch controls which port. I am much happier with this design, and I will be ordering it soon.
+
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+**Cumulative time spent: 6h**
